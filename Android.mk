@@ -45,8 +45,7 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     com.android.services.telephony.common \
     com.android.vcard \
     guava \
-    libphonenumber \
-    org.cyanogenmod.platform.sdk
+    libphonenumber
 
 LOCAL_PACKAGE_NAME := Dialer
 LOCAL_CERTIFICATE := shared
